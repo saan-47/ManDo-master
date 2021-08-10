@@ -1,0 +1,166 @@
+H:\Wpl\ManDo\ManDo\bin\ManDo.dll.config
+H:\Wpl\ManDo\ManDo\bin\ManDo.dll
+H:\Wpl\ManDo\ManDo\bin\ManDo.pdb
+H:\Wpl\ManDo\ManDo\bin\roslyn\csc.exe
+H:\Wpl\ManDo\ManDo\bin\roslyn\csc.exe.config
+H:\Wpl\ManDo\ManDo\bin\roslyn\csc.rsp
+H:\Wpl\ManDo\ManDo\bin\roslyn\csi.exe
+H:\Wpl\ManDo\ManDo\bin\roslyn\csi.exe.config
+H:\Wpl\ManDo\ManDo\bin\roslyn\csi.rsp
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Wpl\ManDo\ManDo\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.AppContext.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Collections.Immutable.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Console.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Globalization.Calendars.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.IO.Compression.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.IO.FileSystem.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Net.Http.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Net.Sockets.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Reflection.Metadata.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.ValueTuple.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Xml.XPath.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Wpl\ManDo\ManDo\bin\roslyn\vbc.exe
+H:\Wpl\ManDo\ManDo\bin\roslyn\vbc.exe.config
+H:\Wpl\ManDo\ManDo\bin\roslyn\vbc.rsp
+H:\Wpl\ManDo\ManDo\bin\roslyn\VBCSCompiler.exe
+H:\Wpl\ManDo\ManDo\bin\roslyn\VBCSCompiler.exe.config
+H:\Wpl\ManDo\ManDo\bin\Antlr3.Runtime.dll
+H:\Wpl\ManDo\ManDo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Wpl\ManDo\ManDo\bin\Microsoft.Web.Infrastructure.dll
+H:\Wpl\ManDo\ManDo\bin\Newtonsoft.Json.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.Helpers.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.Mvc.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.Optimization.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.Razor.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.Deployment.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.Razor.dll
+H:\Wpl\ManDo\ManDo\bin\WebGrease.dll
+H:\Wpl\ManDo\ManDo\bin\System.Web.Helpers.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.Mvc.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.Optimization.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.Razor.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.Deployment.xml
+H:\Wpl\ManDo\ManDo\bin\System.Web.WebPages.Razor.xml
+H:\Wpl\ManDo\ManDo\bin\Newtonsoft.Json.xml
+H:\Wpl\ManDo\ManDo\bin\Antlr3.Runtime.pdb
+H:\Wpl\ManDo\ManDo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Wpl\ManDo\ManDo\obj\Debug\ManDo.csprojAssemblyReference.cache
+H:\Wpl\ManDo\ManDo\obj\Debug\ManDo.csproj.CoreCompileInputs.cache
+H:\Wpl\ManDo\ManDo\obj\Debug\ManDo.csproj.CopyComplete
+H:\Wpl\ManDo\ManDo\obj\Debug\ManDo.dll
+H:\Wpl\ManDo\ManDo\obj\Debug\ManDo.pdb
+H:\Wpl\ManDo\ManDo\bin\EntityFramework.dll
+H:\Wpl\ManDo\ManDo\bin\EntityFramework.SqlServer.dll
+H:\Wpl\ManDo\ManDo\bin\EntityFramework.xml
+H:\Wpl\ManDo\ManDo\bin\EntityFramework.SqlServer.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\ManDo.dll.config
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\ManDo.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\ManDo.pdb
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csc.exe
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csc.exe.config
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csc.rsp
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csi.exe
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csi.exe.config
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\csi.rsp
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.AppContext.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Collections.Immutable.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Console.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.IO.Compression.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.IO.FileSystem.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Net.Http.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Net.Sockets.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.ValueTuple.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Xml.XPath.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\vbc.exe
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\vbc.exe.config
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\vbc.rsp
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\VBCSCompiler.exe
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\roslyn\VBCSCompiler.exe.config
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Antlr3.Runtime.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\EntityFramework.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\EntityFramework.SqlServer.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Microsoft.Web.Infrastructure.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Newtonsoft.Json.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Helpers.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Mvc.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Optimization.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Razor.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.Deployment.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.Razor.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\WebGrease.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\EntityFramework.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\EntityFramework.SqlServer.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Helpers.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Mvc.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Optimization.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.Razor.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.Deployment.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\System.Web.WebPages.Razor.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Newtonsoft.Json.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Antlr3.Runtime.pdb
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\obj\Debug\ManDo.csproj.AssemblyReference.cache
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\obj\Debug\ManDo.csproj.CoreCompileInputs.cache
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\obj\Debug\ManDo.csproj.CopyComplete
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\obj\Debug\ManDo.dll
+D:\Movies & TV series\ManDo-master\ManDo-master\ManDo\obj\Debug\ManDo.pdb

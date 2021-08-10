@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/style.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Mando- Login</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    
+</head>
+<body style="background-image:url(https://wallpaperaccess.com/full/1306075.jpg);">
+    <div class="container login" >
+    <div class="row justify-content-center align-items-center">
+        <div class="card" style="width: 18rem;background-color: transparent !important">
+            <div class="card-img-top">
+                <form>
+                    <div class="form-group">
+                        <label for="formGroupExampleInput">Email</label>
+                        <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+                    </div>
+                    <div class="form-group">
+                        <label for="formGroupExampleInput2">Password</label>
+                        <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Another input">
+                    </div>
+                </form>
+            </div>
+            <div class="card-body">
+                @Html.ActionLink("Log in", "Login", "Home", new { @class = "btn btn-primary form-control" })
+                <p style="font-size: small;">forgot password</p><hr>
+
+                @Html.ActionLink("Sign Up", "SignUp", "Home", new { @class = "btn btn-primary form-control" })
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

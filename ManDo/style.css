@@ -1,0 +1,26 @@
+﻿.navbar {
+    background-color: #ff5733 !important;
+    color: white;
+
+}
+.navbar-brand{
+    color:greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+
+}
+    .navbar-brand:hover {
+        color: #86b300;
+    }
+    label{
+        color:white !important;
+        font-weight:bolder;
+    }
+
+.caropic{
+    height:1000px;
+    width:100%
+}
+
+
+
